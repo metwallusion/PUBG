@@ -2,7 +2,7 @@
 Data Science Project
 
 Pubg work.rar contains 2 files
-1. The ipynb file 
+1. The ipynb file [Note if you try to open the ipynb from github site you will find missing markdowns as I use html and some encodings that is not available on github so you must open it with your notebook].
 2. The dataset
 
 \
